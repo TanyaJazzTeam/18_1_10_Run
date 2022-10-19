@@ -15,6 +15,7 @@
 				{
 					"name": "Hydrodynamics",
 					"complexity": "4",
+					"flfl": "11",
 					"interest": "3",
 					"bool": false
 
