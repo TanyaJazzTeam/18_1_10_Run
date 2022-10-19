@@ -1,7 +1,7 @@
 "main_page_language" = "inglés";
 "main_page_change_language" = "Cambiar idioma";
 "alert_change_language_title" = "Cambiar idioma a";
-"alert_cancel" = "";
+"alert_cancel" = "Cancel";
 "en" = "inglés";
 "uk" = "falso";
 "ar" = "cierto";
