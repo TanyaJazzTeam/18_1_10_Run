@@ -1,0 +1,48 @@
+#: /views/partials/case-band.j2:6 /views/partials/case-band.j2:7
+msgid "A screenshot of a website using AMP."
+msgstr "Une capture d'écran d'un site Web utilisant AMP."
+
+#: /views/partials/format-visuals/websites.j2:10
+msgid "A screenshot showing amp-sidebar."
+msgstr "Une capture d'écran montrant amp-sidebar."
+
+#: /views/partials/format-visuals/websites.j2:7
+msgid "A website screenshot."
+msgstr "Une capture d'écran du site Web."
+
+#: /views/partials/footer.j2:74
+msgid "AMP Brand Materials"
+msgstr "Matériaux de marque AMP"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/_blueprint.yaml
+msgid "AMP Caches & CORS"
+msgstr "Caches AMP et CORS"
+
+#: /views/partials/footer.j2:71
+msgid "AMP Conf 2020"
+msgstr "Conférence AMP 2020"
+
+#: /views/partials/footer.j2:72
+msgid "AMP Contributor Summit 2019"
+msgstr "Sommet des contributeurs AMP 2019"
+
+#: /views/partials/banner.j2:5
+msgid "AMP Contributor Summit 2019 Applications Now Open"
+msgstr "Les candidatures pour le Sommet des contributeurs AMP 2019 sont désormais ouvertes"
+
+#: /views/partials/footer.j2:43
+msgid "AMP Framework"
+msgstr "Cadre AMP"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/spec/_blueprint.yaml
+msgid "AMP HTML Specification"
+msgstr "Spécification HTML AMP"
+
+#: /content/amp-dev/support/faq/overview.md
+msgid "AMP Overview"
+msgstr "Présentation de l'AMP"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/email-spec/_blueprint.yaml
+msgid "AMP for Email Specification"
+msgstr "AMP pour la spécification des e-mails"
+
